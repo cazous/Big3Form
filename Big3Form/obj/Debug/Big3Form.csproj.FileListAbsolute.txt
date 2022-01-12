@@ -11,3 +11,6 @@ C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\FontAwesome.Sharp.dll
 C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.csproj.CopyComplete
 C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.exe
 C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.pdb
+C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.Forms.JogosForm.resources
+C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.Forms.GraficoForm.resources
+C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.Forms.JogadorForm.resources
