@@ -17,7 +17,7 @@ namespace Big3Form.Forms
             InitializeComponent();
         }
 
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        private void bunifuDataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }
@@ -26,5 +26,7 @@ namespace Big3Form.Forms
         {
 
         }
+
+        //Coluna status tem que ser preenchida automaticamente ao cadastrar jogos novos com um 'W' verde ou com um 'L' vermelho
     }
 }
