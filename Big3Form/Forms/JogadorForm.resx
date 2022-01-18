@@ -117,4 +117,207 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="bunifuLabelNumeroJames.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 60pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(25, 25, 112); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabelJames.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 22pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(25, 25, 112); text-align: center; }</value>
+  </data>
+  <data name="bunifuLabel1.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 60pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(25, 25, 112); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel2.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 22pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(25, 25, 112); text-align: center; }</value>
+  </data>
+  <data name="bunifuLabel3.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 60pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(25, 25, 112); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel4.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 18pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(25, 25, 112); text-align: center; }</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuPanelJogadorForm.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAA8UAAAIwCAYAAACvGslyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAwYSURBVHhe7dnBCYAwFAXB9F9P+lNyyEGCDWRnQPBrBcsb
+        AAAAkDfnfPbjdrvdbrfb7Xa73W73rffh9wcAAABc6NPBohgAAIASUQwAAAAAAABQYykGAAAgSxQDAACQ
+        JYoBAAAAAAAAaizFAAAAZIliAAAAskQxAAAAAAAAQI2lGAAAgCxRDAAAQJYoBgAAAAAAAKixFAMAAJAl
+        igEAAMgSxQAAAAAAAAA1lmIAAACyRDEAAABZohgAAAAAAACgxlIMAABAligGAAAgSxQDAAAAAAAA1FiK
+        AQAAyBLFAAAAZIliAAAAAAAAgBpLMQAAAFmiGAAAgCxRDAAAAAAAAFBjKQYAACBLFAMAAJAligEAAAAA
+        AABqLMUAAABkiWIAAACyRDEAAAAAAABAjaUYAACALFEMAABAligGAAAAAAAAqLEUAwAAkCWKAQAAyBLF
+        AAAAAAAAADWWYgAAALJEMQAAAFmiGAAAAAAAAKDGUgwAAECWKAYAACBLFAMAAAAAAADUWIoBAADIEsUA
+        AABkiWIAAAAAAACAGksxAAAAWaIYAACALFEMAAAAAAAAUGMpBgAAIEsUAwAAkCWKAQAAAAAAAGosxQAA
+        AGSJYgAAALJEMQAAAAAAAECNpRgAAIAsUQwAAECWKAYAAAAAAACosRQDAACQJYoBAADIEsUAAAAAAAAA
+        NZZiAAAAskQxAAAAWaIYAAAAAAAAoMZSDAAAQJYoBgAAIEsUAwAAAAAAANRYigEAAMgSxQAAAGSJYgAA
+        AAAAAIAaSzEAAABZohgAAIAsUQwAAAAAAABQYykGAAAgSxQDAACQJYoBAAAAAAAAaizFAAAAZIliAAAA
+        skQxAAAAAAAAQI2lGAAAgCxRDAAAQJYoBgAAAAAAAKixFAMAAJAligEAAMgSxQAAAAAAAAA1lmIAAACy
+        RDEAAABZohgAAAAAAACgxlIMAABAligGAAAgSxQDAAAAAAAA1FiKAQAAyBLFAAAAZIliAAAAAAAAgBpL
+        MQAAAFmiGAAAgCxRDAAAAAAAAFBjKQYAACBLFAMAAJAligEAAAAAAABqLMUAAABkiWIAAACyRDEAAAAA
+        AABAjaUYAACALFEMAABAligGAAAAAAAAqLEUAwAAkCWKAQAAyBLFAAAAAAAAADWWYgAAALJEMQAAAFmi
+        GAAAAAAAAKDGUgwAAECWKAYAACBLFAMAAAAAAADUWIoBAADIEsUAAABkiWIAAAAAAACAGksxAAAAWaIY
+        AACALFEMAAAAAAAAUGMpBgAAIEsUAwAAkCWKAQAAAAAAAGosxQAAAGSJYgAAALJEMQAAAAAAAECNpRgA
+        AIAsUQwAAECWKAYAAAAAAACosRQDAACQJYoBAADIEsUAAAAAAAAANZZiAAAAskQxAAAAWaIYAAAAAAAA
+        oMZSDAAAQJYoBgAAIEsUAwAAAAAAANRYigEAAMgSxQAAAGSJYgAAAAAAAIAaSzEAAABZohgAAIAsUQwA
+        AAAAAABQYykGAAAgSxQDAACQJYoBAAAAAAAAaizFAAAAZIliAAAAskQxAAAAAAAAQI2lGAAAgCxRDAAA
+        QJYoBgAAAAAAAKixFAMAAJAligEAAMgSxQAAAAAAAAA1lmIAAACyRDEAAABZohgAAAAAAACgxlIMAABA
+        ligGAAAgSxQDAAAAAAAA1FiKAQAAyBLFAAAAZIliAAAAAAAAgBpLMQAAAFmiGAAAgCxRDAAAAAAAAFBj
+        KQYAACBLFAMAAJAligEAAAAAAABqLMUAAABkiWIAAACyRDEAAAAAAABAjaUYAACALFEMAABAligGAAAA
+        AAAAqLEUAwAAkCWKAQAAyBLFAAAAAAAAADWWYgAAALJEMQAAAFmiGAAAAAAAAKDGUgwAAECWKAYAACBL
+        FAMAAAAAAADUWIoBAADIEsUAAABkiWIAAAAAAACAGksxAAAAWaIYAACALFEMAAAAAAAAUGMpBgAAIEsU
+        AwAAkCWKAQAAAAAAAGosxQAAAGSJYgAAALJEMQAAAAAAAECNpRgAAIAsUQwAAECWKAYAAAAAAACosRQD
+        AACQJYoBAADIEsUAAAAAAAAANZZiAAAAskQxAAAAWaIYAAAAAAAAoMZSDAAAQJYoBgAAIEsUAwAAAAAA
+        ANRYigEAAMgSxQAAAGSJYgAAAAAAAIAaSzEAAABZohgAAIAsUQwAAAAAAABQYykGAAAgSxQDAACQJYoB
+        AAAAAAAAaizFAAAAZIliAAAAskQxAAAAAAAAQI2lGAAAgCxRDAAAQJYoBgAAAAAAAKixFAMAAJAligEA
+        AMgSxQAAAAAAAAA1lmIAAACyRDEAAABZohgAAAAAAACgxlIMAABAligGAAAgSxQDAAAAAAAA1FiKAQAA
+        yBLFAAAAZIliAAAAAAAAgBpLMQAAAFmiGAAAgCxRDAAAAAAAAFBjKQYAACBLFAMAAJAligEAAAAAAABq
+        LMUAAABkiWIAAACyRDEAAAAAAABAjaUYAACALFEMAABAligGAAAAAAAAqLEUAwAAkCWKAQAAyBLFAAAA
+        AAAAADWWYgAAALJEMQAAAFmiGAAAAAAAAKDGUgwAAECWKAYAACBLFAMAAAAAAADUWIoBAADIEsUAAABk
+        iWIAAAAAAACAGksxAAAAWaIYAACALFEMAAAAAAAAUGMpBgAAIEsUAwAAkCWKAQAAAAAAAGosxQAAAGSJ
+        YgAAALJEMQAAAAAAAECNpRgAAIAsUQwAAECWKAYAAAAAAACosRQDAACQJYoBAADIEsUAAAAAAAAANZZi
+        AAAAskQxAAAAWaIYAAAAAAAAoMZSDAAAQJYoBgAAIEsUAwAAAAAAANRYigEAAMgSxQAAAGSJYgAAAAAA
+        AIAaSzEAAABZohgAAIAsUQwAAAAAAABQYykGAAAgSxQDAACQJYoBAAAAAAAAaizFAAAAZIliAAAAskQx
+        AAAAAAAAQI2lGAAAgCxRDAAAQJYoBgAAAAAAAKixFAMAAJAligEAAMgSxQAAAAAAAAA1lmIAAACyRDEA
+        AABZohgAAAAAAACgxlIMAABAligGAAAgSxQDAAAAAAAA1FiKAQAAyBLFAAAAZIliAAAAAAAAgBpLMQAA
+        AFmiGAAAgCxRDAAAAAAAAFBjKQYAACBLFAMAAJAligEAAAAAAABqLMUAAABkiWIAAACyRDEAAAAAAABA
+        jaUYAACALFEMAABAligGAAAAAAAAqLEUAwAAkCWKAQAAyBLFAAAAAAAAADWWYgAAALJEMQAAAFmiGAAA
+        AAAAAKDGUgwAAECWKAYAACBLFAMAAAAAAADUWIoBAADIEsUAAABkiWIAAAAAAACAGksxAAAAWaIYAACA
+        LFEMAAAAAAAAUGMpBgAAIEsUAwAAkCWKAQAAAAAAAGosxQAAAGSJYgAAALJEMQAAAAAAAECNpRgAAIAs
+        UQwAAECWKAYAAAAAAACosRQDAACQJYoBAADIEsUAAAAAAAAANZZiAAAAskQxAAAAWaIYAAAAAAAAoMZS
+        DAAAQJYoBgAAIEsUAwAAAAAAANRYigEAAMgSxQAAAGSJYgAAAAAAAIAaSzEAAABZohgAAIAsUQwAAAAA
+        AABQYykGAAAgSxQDAACQJYoBAAAAAAAAaizFAAAAZIliAAAAskQxAAAAAAAAQI2lGAAAgCxRDAAAQJYo
+        BgAAAAAAAKixFAMAAJAligEAAMgSxQAAAAAAAAA1lmIAAACyRDEAAABZohgAAAAAAACgxlIMAABAligG
+        AAAgSxQDAAAAAAAA1FiKAQAAyBLFAAAAZIliAAAAAAAAgBpLMQAAAFmiGAAAgCxRDAAAAAAAAFBjKQYA
+        ACBLFAMAAJAligEAAAAAAABqLMUAAABkiWIAAACyRDEAAAAAAABAjaUYAACALFEMAABAligGAAAAAAAA
+        qLEUAwAAkCWKAQAAyBLFAAAAAAAAADWWYgAAALJEMQAAAFmiGAAAAAAAAKDGUgwAAECWKAYAACBLFAMA
+        AAAAAADUWIoBAADIEsUAAABkiWIAAAAAAACAGksxAAAAWaIYAACALFEMAAAAAAAAUGMpBgAAIEsUAwAA
+        kCWKAQAAAAAAAGosxQAAAGSJYgAAALJEMQAAAAAAAEDNMQ6vD/vjfne73W632+12u91ut/vGe70DAABA
+        2BgvpvKah/LUUBgAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="bunifuLabel33.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel34.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel35.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel36.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel37.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 14pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel38.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 14pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel39.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 14pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel40.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel41.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel42.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel43.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel44.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 16pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel45.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 16pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel46.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 16pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel19.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel20.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel21.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel22.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel23.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 14pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel24.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 14pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel25.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 14pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel26.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel27.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel28.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel29.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel30.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 16pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel31.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 16pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel32.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 16pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel18.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel17.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel16.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel15.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 10pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel14.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 14pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel13.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 14pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel12.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 14pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel11.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel10.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel9.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel8.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(255, 150, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel7.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 16pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel6.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 16pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
+  <data name="bunifuLabel5.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Tahoma'; font-size: 16pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(240, 180, 0); text-align: left; }</value>
+  </data>
 </root>

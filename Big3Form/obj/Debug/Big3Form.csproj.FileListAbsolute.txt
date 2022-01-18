@@ -1,6 +1,5 @@
 C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.csproj.AssemblyReference.cache
 C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.csproj.SuggestedBindingRedirects.cache
-C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.exe.config
 C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.Forms.GraficoForm.resources
 C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.Forms.HomeForm.resources
 C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.Forms.JogadorForm.resources
@@ -26,3 +25,18 @@ C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.exe
 C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.pdb
 C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.Forms.JogosForm.resources
 C:\Users\Home\source\repos\Big3Form\Big3Form\obj\Debug\Big3Form.exe.licenses
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\LiveCharts.dll
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\LiveCharts.pdb
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\LiveCharts.xml
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Home\source\repos\Big3Form\Big3Form\bin\Debug\LiveCharts.Wpf.xml

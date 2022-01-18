@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(HomeForm));
             this.panelMenu = new System.Windows.Forms.Panel();
             this.iconButtonGrafico = new FontAwesome.Sharp.IconButton();
@@ -42,6 +43,10 @@
             this.iconFormAtual = new FontAwesome.Sharp.IconPictureBox();
             this.panelSombra = new System.Windows.Forms.Panel();
             this.panelConteudo = new System.Windows.Forms.Panel();
+            this.bunifuDragControlPanelFormAtual = new Bunifu.Framework.UI.BunifuDragControl(this.components);
+            this.bunifuDragControlPanelLogo = new Bunifu.Framework.UI.BunifuDragControl(this.components);
+            this.bunifuDragControlPanelMenu = new Bunifu.Framework.UI.BunifuDragControl(this.components);
+            this.bunifuDragControlPanelConteudo = new Bunifu.Framework.UI.BunifuDragControl(this.components);
             this.panelMenu.SuspendLayout();
             this.panelLogo.SuspendLayout();
             this.panelFormAtual.SuspendLayout();
@@ -58,7 +63,7 @@
             this.panelMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelMenu.Location = new System.Drawing.Point(0, 0);
             this.panelMenu.Name = "panelMenu";
-            this.panelMenu.Size = new System.Drawing.Size(200, 681);
+            this.panelMenu.Size = new System.Drawing.Size(200, 655);
             this.panelMenu.TabIndex = 0;
             // 
             // iconButtonGrafico
@@ -160,7 +165,7 @@
             this.panelFormAtual.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelFormAtual.Location = new System.Drawing.Point(200, 0);
             this.panelFormAtual.Name = "panelFormAtual";
-            this.panelFormAtual.Size = new System.Drawing.Size(1047, 67);
+            this.panelFormAtual.Size = new System.Drawing.Size(975, 67);
             this.panelFormAtual.TabIndex = 1;
             // 
             // iconButtonMinimize
@@ -173,7 +178,7 @@
             this.iconButtonMinimize.IconColor = System.Drawing.Color.Goldenrod;
             this.iconButtonMinimize.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButtonMinimize.IconSize = 22;
-            this.iconButtonMinimize.Location = new System.Drawing.Point(998, 3);
+            this.iconButtonMinimize.Location = new System.Drawing.Point(926, 3);
             this.iconButtonMinimize.Name = "iconButtonMinimize";
             this.iconButtonMinimize.Size = new System.Drawing.Size(20, 20);
             this.iconButtonMinimize.TabIndex = 3;
@@ -190,7 +195,7 @@
             this.iconButtonClose.IconColor = System.Drawing.Color.Goldenrod;
             this.iconButtonClose.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButtonClose.IconSize = 24;
-            this.iconButtonClose.Location = new System.Drawing.Point(1023, 3);
+            this.iconButtonClose.Location = new System.Drawing.Point(951, 3);
             this.iconButtonClose.Name = "iconButtonClose";
             this.iconButtonClose.Size = new System.Drawing.Size(20, 20);
             this.iconButtonClose.TabIndex = 2;
@@ -227,7 +232,7 @@
             this.panelSombra.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelSombra.Location = new System.Drawing.Point(200, 67);
             this.panelSombra.Name = "panelSombra";
-            this.panelSombra.Size = new System.Drawing.Size(1047, 5);
+            this.panelSombra.Size = new System.Drawing.Size(975, 5);
             this.panelSombra.TabIndex = 2;
             // 
             // panelConteudo
@@ -238,14 +243,42 @@
             this.panelConteudo.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelConteudo.Location = new System.Drawing.Point(200, 72);
             this.panelConteudo.Name = "panelConteudo";
-            this.panelConteudo.Size = new System.Drawing.Size(1047, 609);
+            this.panelConteudo.Size = new System.Drawing.Size(975, 583);
             this.panelConteudo.TabIndex = 3;
+            // 
+            // bunifuDragControlPanelFormAtual
+            // 
+            this.bunifuDragControlPanelFormAtual.Fixed = true;
+            this.bunifuDragControlPanelFormAtual.Horizontal = true;
+            this.bunifuDragControlPanelFormAtual.TargetControl = this.panelFormAtual;
+            this.bunifuDragControlPanelFormAtual.Vertical = true;
+            // 
+            // bunifuDragControlPanelLogo
+            // 
+            this.bunifuDragControlPanelLogo.Fixed = true;
+            this.bunifuDragControlPanelLogo.Horizontal = true;
+            this.bunifuDragControlPanelLogo.TargetControl = null;
+            this.bunifuDragControlPanelLogo.Vertical = true;
+            // 
+            // bunifuDragControlPanelMenu
+            // 
+            this.bunifuDragControlPanelMenu.Fixed = true;
+            this.bunifuDragControlPanelMenu.Horizontal = true;
+            this.bunifuDragControlPanelMenu.TargetControl = null;
+            this.bunifuDragControlPanelMenu.Vertical = true;
+            // 
+            // bunifuDragControlPanelConteudo
+            // 
+            this.bunifuDragControlPanelConteudo.Fixed = true;
+            this.bunifuDragControlPanelConteudo.Horizontal = true;
+            this.bunifuDragControlPanelConteudo.TargetControl = null;
+            this.bunifuDragControlPanelConteudo.Vertical = true;
             // 
             // HomeForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1247, 681);
+            this.ClientSize = new System.Drawing.Size(1175, 655);
             this.Controls.Add(this.panelConteudo);
             this.Controls.Add(this.panelSombra);
             this.Controls.Add(this.panelFormAtual);
@@ -279,5 +312,9 @@
         private System.Windows.Forms.Panel panelConteudo;
         private FontAwesome.Sharp.IconButton iconButtonMinimize;
         private FontAwesome.Sharp.IconButton iconButtonClose;
+        private Bunifu.Framework.UI.BunifuDragControl bunifuDragControlPanelFormAtual;
+        private Bunifu.Framework.UI.BunifuDragControl bunifuDragControlPanelLogo;
+        private Bunifu.Framework.UI.BunifuDragControl bunifuDragControlPanelMenu;
+        private Bunifu.Framework.UI.BunifuDragControl bunifuDragControlPanelConteudo;
     }
 }
